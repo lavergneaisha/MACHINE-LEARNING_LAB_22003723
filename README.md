@@ -1,1 +1,1 @@
-# MACHINE-LEARNING_LAB_22003723
+Machine Learning labs 1 and 2: feature engineering, regression, classification and saved models.
